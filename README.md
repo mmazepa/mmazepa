@@ -4,7 +4,7 @@
 
 :mortar_board: During my undergraduate studies my specialization was "**Web Applications and Databases**".
 
-:mortar_board: I finished master's degree in computer science. My master's thesis was about **graph coloring** and its applications in solving puzzles like Sudoku, N-Queens problem etc.
+:mortar_board: I finished master's degree in computer science. My master's thesis "**Solving Selected Puzzles by Graph Coloring Algorithms**" was about graph coloring and its applications in solving puzzles like Sudoku, N-Queens problem etc.
 
 :spaghetti: I love cooking, baking and everything like that. I have always thought that **algorithms are like recipes**.
 
