@@ -8,10 +8,4 @@
 
 :spaghetti: I love cooking, baking and everything like that. I have always thought that **algorithms are like recipes**.
 
-| Programming | Cooking       |
-|-------------|---------------|
-| input       | ingredients   |
-| algorithm   | recipe        |
-| output      | prepared meal |
-
 :envelope: Feel free to contact with me in connection with my repositories.
